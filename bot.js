@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 
-// const developerKey = YOUR_KEY;
+// const developerKey = 'YOUR_KEY';
 
 const prefix = '-pom';
 const second = 1000;
@@ -81,4 +81,4 @@ bot.on('message', async message => {
 
 })
 
-bot.login(`${developerKey}`);
+bot.login(developerKey);
