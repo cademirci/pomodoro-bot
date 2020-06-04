@@ -6,9 +6,9 @@ In order for me to provide a valid usage, you have to have a Discord developer a
 
 ### Requirements
 
-npm
-Node.js
-Discord.js
+- npm
+- Node.js
+- Discord.js
 
 ### Command:
 
