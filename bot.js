@@ -81,4 +81,4 @@ bot.on('message', async message => {
 
 })
 
-bot.login('${developerKey}');
+bot.login(`${developerKey}`);
